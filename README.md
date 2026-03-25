@@ -1,4 +1,4 @@
-# CNN Handwritten Digit Recognition (MNIST)
+# DigitNet
 
 ## About
 This project implements a Convolutional Neural Network (CNN) using TensorFlow/Keras to classify handwritten digits (0–9) from the MNIST dataset. It demonstrates how to build, train, and evaluate a deep learning CNN for image classification.
